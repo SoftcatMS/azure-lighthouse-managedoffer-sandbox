@@ -1,4 +1,4 @@
-# azure-lighthouse-managedoffer-sandbox
+# Azure Lighthouse Managed Offer (sandbox)
 Stores the Azure Lighthouse Managed Service Offer template that can be used to provide delegation to customer environments from objects with the Partner Sandbox account
 
 The following permissions are included in this lighthouse offer.
@@ -8,4 +8,8 @@ The following permissions are included in this lighthouse offer.
 | User/Group | Delegated Permission |
 | ---------- | -------------------- |
 | Managed Azure - Engineers | Reader |
-| Managed Azure - Engineers | Reader |
+| Managed Azure - Engineers | Support Request Contributor |
+| Managed Azure - Engineers | Managed Services Registration Assignment Delete Role |
+| Managed Azure - Service Delivery Managers | Reader |
+| Managed Azure - Services | Reader |
+| Managed Azure - Services | Support Request Contributor |
