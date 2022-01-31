@@ -5,5 +5,5 @@ The following permissions are included in this lighthouse offer.
 
 # permissions table
 | User/Group | Delegated Permission |
-| Managed Azure - Engineers | Reader
-| Managed Azure - Engineers | Reader
+| Managed Azure - Engineers | Reader |
+| Managed Azure - Engineers | Reader |
