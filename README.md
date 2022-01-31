@@ -16,5 +16,6 @@ The following permissions are included in this lighthouse offer.
 
 # Deploy to Azure 
 
-Use the below button to deploy this Azure Lighthouse offer to a tenant
+Use the below button to deploy this Azure Lighthouse offer to a tenant.
+
 [![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FSoftcatMS%2Fazure-lighthouse-managedoffer-sandbox%2Fmain%2Fsandbox-lighthouse-offer-nopim.json)
