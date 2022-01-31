@@ -3,7 +3,9 @@ Stores the Azure Lighthouse Managed Service Offer template that can be used to p
 
 The following permissions are included in this lighthouse offer.
 
-# permissions table
+# Delegated Permissions
+
 | User/Group | Delegated Permission |
+| ---------- | -------------------- |
 | Managed Azure - Engineers | Reader |
 | Managed Azure - Engineers | Reader |
